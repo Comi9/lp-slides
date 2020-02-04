@@ -2,7 +2,7 @@
   "name": "lp-slides",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Comi9/lp-slides",
+  "homepage": "./",
   "dependencies": {
     "@testing-library/jest-dom": "^5.1.1",
     "@testing-library/react": "^9.4.0",
