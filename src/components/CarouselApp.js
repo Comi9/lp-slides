@@ -67,6 +67,7 @@ export default class CarouselApp extends Component {
         autoPlay={true}
         showStatus={false}
         interval={5000}
+        swipeScrollTolerance={1000}
         emulateTouch
         width={'980px'}
         showArrows={true}>
